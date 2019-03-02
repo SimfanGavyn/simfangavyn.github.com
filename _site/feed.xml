@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-01T16:04:24-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">菜园</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">菜园游览说明</title><link href="http://localhost:4000/importance/2019/02/28/welcome-to-farm.html" rel="alternate" type="text/html" title="菜园游览说明" /><published>2019-02-28T07:00:00-08:00</published><updated>2019-02-28T07:00:00-08:00</updated><id>http://localhost:4000/importance/2019/02/28/welcome-to-farm</id><content type="html" xml:base="http://localhost:4000/importance/2019/02/28/welcome-to-farm.html">&lt;h1 id=&quot;如何更好的割菜&quot;&gt;如何更好的割菜&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;首先得磨刀。&lt;/strong&gt;
+李笑来说的是不错，割菜得快准狠，还得一把顺手锋利的镰刀。
+&lt;br /&gt;
+这里，为了提高你找文章的效率，特以本文作为园区游览说明，带你三分钟逛完菜园
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;园区划分 (Category)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;分类&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;概要&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;&quot;&gt;Importance&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Emmm, just important&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;&quot;&gt;Myself&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Feeling, life or experience&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;&quot;&gt;Programs&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Code, knowledge or project&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;&quot;&gt;Tools&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Environment, IDE usage or knowledge&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;园区特点 (Tag)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;说实话这个tag我觉得我真的会写得很野,虽然说现在还没有想法。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;文章格式&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;先随便写写吧，md还不太熟，总是会有一点莫名其妙的格式问题。还有代码和模板。这也是得弄的。
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;结尾的话&quot;&gt;结尾的话&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Well, welcome to life.&lt;/strong&gt;
+&lt;br /&gt;
+一切才刚起步，很多事情都挺简陋的，很多细节后面也得慢慢调，很多知识后面也在慢慢学。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;&lt;font size=&quot;2&quot; color=&quot;grey&quot;&gt;Last modified done at 03.01.2019&lt;/font&gt;&lt;/p&gt;</content><author><name></name></author><category term="Importance" /><summary type="html">如何更好的割菜 首先得磨刀。 李笑来说的是不错，割菜得快准狠，还得一把顺手锋利的镰刀。 这里，为了提高你找文章的效率，特以本文作为园区游览说明，带你三分钟逛完菜园 园区划分 (Category)</summary></entry><entry><title type="html">Dynamic Programming (一)</title><link href="http://localhost:4000/programs/2019/02/25/DP-Programming-TrainSort.html" rel="alternate" type="text/html" title="Dynamic Programming (一)" /><published>2019-02-25T07:00:00-08:00</published><updated>2019-02-25T07:00:00-08:00</updated><id>http://localhost:4000/programs/2019/02/25/DP-Programming-TrainSort</id><content type="html" xml:base="http://localhost:4000/programs/2019/02/25/DP-Programming-TrainSort.html">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;背景
+&lt;br /&gt;
+既然讲到了DP问题，就不得不提greedy和D&amp;amp;C。
+&lt;br /&gt;
+Greedy，也称为贪婪算法，是指，将大问题分解成小问题，并且每次都以局部最优解来解决当前小问题，最终实现用最优解来解决大问题的结果。Greedy的弊端是在于局部最优解不一定就是全局最优解。因此也出现了与Greedy相关的算法正确性证明：&lt;em&gt;Staying ahead&lt;/em&gt; 和 &lt;em&gt;Exchange argument&lt;/em&gt;。这两种方法是常见的证明Greedy是Optimal的方法。
+&lt;br /&gt;
+&lt;br /&gt;
+D&amp;amp;C, devide and conquer, 也称为分而治之。类似的，也是将大问题分解成小问题，但是每个大问题与小问题间的解决方法基本一致，而且重点是在于分解成小问题后，再combine成大问题的过程。典型的例子就是 &lt;em&gt;Merge Sort&lt;/em&gt; 和 &lt;em&gt;中位数问题&lt;/em&gt;。在D&amp;amp;C问题中，一个常用的降低时间复杂度的方法就是使用二分搜索树来将n(n^2)降低成n(nlog)。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;什么是DP问题
+&lt;br /&gt;
+那，DP问题，有和上面的问题有什么不同呢。DP也是一个解决子问题的算法，它的子问题之间有很高的重复利用率。举个例子，在我们一开始学习递归算法的时候，会让我们求Fibonacci sequence。
+    &lt;div class=&quot;language-c++ highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;// base case&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;// base case&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;在这种情况下，如果求f(5)的话，f(2)就会被重复计算了3次，这样子的重复计算很影响时间复杂度。因此，我们可以把需要被重复利用的数据给保存下来，保存在一个table里面，需要的时候就拿出来，避免了重复计算。
+&lt;br /&gt;
+而这样一种，使用已有数据来解决递归问题的方法，就叫做DP。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;案例描述
+&lt;br /&gt;
+&lt;a href=&quot;https://ucsb.kattis.com/problems/trainsorting&quot;&gt;题目描述在这里&lt;/a&gt;
+&lt;br /&gt;
+也就是说，给你一串数列互不重复的input[n]和数列的长度n，你从前往后读，读到每一个数据的时候，可以选择加入或者不加入到按从大到小顺序的output[]中。如果加入的话，只能从已有的前面或者后面加。如果不加入的话，则读取下一个。Task是求的output数列最长有多长。
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Input：
+5
+3 2 1 4 5
+Output:
+5
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;解决方案及代码
+&lt;br /&gt;
+首先，我们需要分析，如果我们从左到右，每一次都能拿出以input[i]为首的最长递增子序列和最长递减子序列，那我们就可以比较以input[i]为链接点的最长序列的长度。
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;如取A[0],则有321和345，因此，最长序列长度为3 + 3 — 1 = 5
+取A[1],则有21和245，因此，最长序列长度为2 + 3 — 1 = 4
+取A[2],则有1和145，因此，最长序列长度为1 + 3 — 1 = 3
+取A[3],则有4和45，因此，最长序列长度为1 + 2 — 1 = 2
+取A[4],则有5和5，因此，最长序列长度为1 + 1 — 1 = 1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;进行比较则知道，应该以3作为链接点。至于怎么来获得以input[i]为首的最长递增子序列和最长递减子序列，可以参考这篇关于&lt;a href=&quot;https://blog.csdn.net/ltrbless/article/details/81318935&quot;&gt;LIS和LDS&lt;/a&gt;的DP基础应用。最终代码如下：
+&lt;br /&gt;&lt;/p&gt;
+    &lt;div class=&quot;language-c++ highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+ &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;n&quot;&gt;cin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;increase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;decrease&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ans&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;cin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;increase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;decrease&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+     &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+             &lt;span class=&quot;n&quot;&gt;increase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;increase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;increase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+             &lt;span class=&quot;n&quot;&gt;decrease&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;decrease&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;decrease&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;dp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;increase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;decrease&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;ans&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;max&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ans&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ &lt;span class=&quot;n&quot;&gt;cout&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ans&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;endl&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p align=&quot;right&quot;&gt;&lt;font size=&quot;2&quot; color=&quot;grey&quot;&gt;Done at 02.26.2019&lt;/font&gt;&lt;/p&gt;</content><author><name></name></author><category term="Programs" /><summary type="html">背景 既然讲到了DP问题，就不得不提greedy和D&amp;amp;C。 Greedy，也称为贪婪算法，是指，将大问题分解成小问题，并且每次都以局部最优解来解决当前小问题，最终实现用最优解来解决大问题的结果。Greedy的弊端是在于局部最优解不一定就是全局最优解。因此也出现了与Greedy相关的算法正确性证明：Staying ahead 和 Exchange argument。这两种方法是常见的证明Greedy是Optimal的方法。 D&amp;amp;C, devide and conquer, 也称为分而治之。类似的，也是将大问题分解成小问题，但是每个大问题与小问题间的解决方法基本一致，而且重点是在于分解成小问题后，再combine成大问题的过程。典型的例子就是 Merge Sort 和 中位数问题。在D&amp;amp;C问题中，一个常用的降低时间复杂度的方法就是使用二分搜索树来将n(n^2)降低成n(nlog)。</summary></entry><entry><title type="html">Jekyll安装与初使用</title><link href="http://localhost:4000/tools/2019/02/21/Jekyll.html" rel="alternate" type="text/html" title="Jekyll安装与初使用" /><published>2019-02-21T07:00:00-08:00</published><updated>2019-02-21T07:00:00-08:00</updated><id>http://localhost:4000/tools/2019/02/21/Jekyll</id><content type="html" xml:base="http://localhost:4000/tools/2019/02/21/Jekyll.html">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;安装ruby&quot;&gt;安装ruby&lt;/h4&gt;
+    &lt;p&gt;mac Mojave自带ruby和gem，但是如果直接用gem下载的话会报权限错误。这里推荐的解决方案是用homebrew再下载一个ruby，这样子即有本地的也有新下载的。这个方案最直接便捷，还有使用rvm版本管理器的话，等什么时候方便再试试吧。
+&lt;br /&gt;
+下完之后，要往bash_profile加入以下这两句话，来找到新下载的ruby和gem。
+&lt;br /&gt;
+具体路径会在brew里面显示出来。&lt;/p&gt;
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'export PATH=&quot;/usr/local/opt/ruby/bin:$PATH&quot;'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bash_profile
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'export PATH=&quot;/usr/local/lib/ruby/gems/2.6.0/bin:$PATH&quot;'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt; ~/.bash_profile
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;这时候，再使用gem install jekyll命令，就可以成功下载jekyll了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;jekyll的使用&quot;&gt;jekyll的使用&lt;/h4&gt;
+    &lt;p&gt;cd到你想要放置文件的地方，使用jekyll new myblog生成工作目录&lt;a href=&quot;http://jekyllcn.com/docs/quickstart/&quot;&gt;快速指南&lt;/a&gt;。此时会出现bundle找不到的错误。虽然没找到原因，但是我觉得很有可能是因为版本问题所以导致原来的bundle不能使用，这时候只需要使用gem重新下载bundle就可以了。&lt;/p&gt;
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;bundler
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h4 id=&quot;enjoy-jekyll-&quot;&gt;Enjoy Jekyll !!!&lt;/h4&gt;
+    &lt;p&gt;这是你刚刚new出来的整个文件的框架。此时cd进入当前文件夹，再使用jekyll serve部署在本地服务器上，从而查看出来的效果。
+&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/file_frame.png&quot; width=&quot;30%&quot; alt=&quot;AltText&quot; /&gt;
+&lt;br /&gt;
+整了好久还是不知道怎么&lt;a href=&quot;https://ddddxxx.github.io/2017/08/21/insert-retina-image-in-md/&quot;&gt;修改css的样式表&lt;/a&gt;从而实现将图片按比例缩小，这里先mark下来，先把后面的工作做完先。
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;right&quot;&gt;&lt;font size=&quot;2&quot; color=&quot;grey&quot;&gt;Done at 02.22.2019&lt;/font&gt;&lt;/p&gt;</content><author><name></name></author><category term="Tools" /><summary type="html">安装ruby mac Mojave自带ruby和gem，但是如果直接用gem下载的话会报权限错误。这里推荐的解决方案是用homebrew再下载一个ruby，这样子即有本地的也有新下载的。这个方案最直接便捷，还有使用rvm版本管理器的话，等什么时候方便再试试吧。 下完之后，要往bash_profile加入以下这两句话，来找到新下载的ruby和gem。 具体路径会在brew里面显示出来。 echo 'export PATH=&quot;/usr/local/opt/ruby/bin:$PATH&quot;' &amp;gt;&amp;gt; ~/.bash_profile echo 'export PATH=&quot;/usr/local/lib/ruby/gems/2.6.0/bin:$PATH&quot;' &amp;gt;&amp;gt; ~/.bash_profile 这时候，再使用gem install jekyll命令，就可以成功下载jekyll了。</summary></entry></feed>
